@@ -1,8 +1,8 @@
 # shallow net.ipynb
-  In this notebook I implemented a simple neural network with one input and one output neuron
-  Partial derivatives were calculated manually
-  The model could correctly predict f(x) of linear function f(x) = x, 
-  but failed when being trained on f(x) == x^2
+  In this notebook I implemented a simple neural network with one input and one output neuron<br>
+  Partial derivatives were calculated manually<br>
+  The model could correctly predict f(x) of linear function f(x) = x, <br>
+  but failed when being trained on f(x) == x^2<br>
   
 
 # sin_function.ipynb
